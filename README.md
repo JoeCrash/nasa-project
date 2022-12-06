@@ -11,3 +11,4 @@ Backend Development in Node.js
 API development with Express and Postman
 Data Storage using Mongo Atlas
 CI/CD pipeline with Github Actions
+Logging with Morgan middleware
