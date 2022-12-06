@@ -12,3 +12,6 @@ API development with Express and Postman
 Data Storage using Mongo Atlas
 CI/CD pipeline with Github Actions
 Logging with Morgan middleware
+
+docker build . -t joecrash/nasa-project
+docker run -it -p 8000:8000 joecrash/nasa-project
